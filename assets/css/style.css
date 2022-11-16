@@ -32,3 +32,43 @@
     height: 90vh;
     overflow-y: visible;
 }
+#container-right{
+    width: 66.66%;
+    
+}
+#section-right{
+    position: relative;
+}
+#input-area{
+    position: absolute;
+    bottom: 0;
+}
+
+.desktop-notifies{
+    background-color: aqua;
+    
+}
+.fa-bell-slash{
+    background-color: white;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    width: 50px;
+    height: 50px;
+    font-size: 1.5rem;
+}
+.fa-solid{
+    color: gray;
+}
+.roundedImg{
+    border-radius: 50%;
+    width: 50px;
+}
+.search-bar{
+    width: 350px;
+}
+ul{
+    list-style: none;
+    padding-inline-start: 0px;
+}
